@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc537cd5-aaac-4747-9a3c-de460b6c19e8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/chapter_linear-networks/linear-regression-scratch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_linear-networks/linear-regression-scratch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_linear-networks/linear-regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_linear-networks/linear-regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_preliminaries/.ipynb_checkpoints/linear-algebra-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_preliminaries/.ipynb_checkpoints/linear-algebra-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_preliminaries/autograd.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_preliminaries/autograd.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_preliminaries/calculus.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_preliminaries/calculus.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_preliminaries/linear-algebra.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_preliminaries/linear-algebra.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_preliminaries/ndarray.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_preliminaries/ndarray.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_preliminaries/pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_preliminaries/pandas.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Y3GSKpqUugmKyoQCmSU8cDkPR6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/d2l-zh-pytorch",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc537cd5-aaac-4747-9a3c-de460b6c19e8" name="Changes" comment="" />
+      <created>1699746855057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699746855057</updated>
+      <workItem from="1699746856078" duration="128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
